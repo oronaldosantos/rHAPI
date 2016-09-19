@@ -3,7 +3,7 @@ source "http://rubygems.org"
 # Example:
 #   gem "activesupport", ">= 2.3.5"
 gem "curb", "~> 0.7.12"
-gem "json", '>= 1.5.1'
+gem "json", '>= 1.8.3'
 gem "activesupport", '>= 0'
 
 # Add dependencies to develop your gem here.
